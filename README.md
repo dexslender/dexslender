@@ -16,7 +16,7 @@ ___
     <a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w">
       <img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png?ssl=1" alt="YouTube" width="70px"/>
     </a>
-    <a href="https://www.twitch.tv/slendermixgd">
+    <a href="https://www.twitch.tv/dexslender">
       <img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" alt="Twitch" width="70px">
     </a>
 </div>
