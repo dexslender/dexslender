@@ -1,4 +1,4 @@
-# SlenderMix 
+# DexSlender
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Slender-Mix) ![Discord Server](https://discordapp.com/api/guilds/896047288969986160/widget.png?style=shield)
 ___
 * Discord Bot Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20px"/><img src="https://sebastian-gomez.com/typescript.png" width="20px"/>
