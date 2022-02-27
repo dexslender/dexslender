@@ -1,6 +1,8 @@
 # DexSlender
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Slender-Mix) ![Discord Server](https://discordapp.com/api/guilds/896047288969986160/widget.png?style=shield)
 ___
+* Initial Developer...
+
 * Discord Bot Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20px"/><img src="https://sebastian-gomez.com/typescript.png" width="20px"/>
 
 * Geometry Dash <img src="https://static.wikia.nocookie.net/logopedia/images/6/61/Geometry_Dash_Logo.png/revision/latest/scale-to-width-down/250?cb=20210209192114&path-prefix=es" width="20px"/>
