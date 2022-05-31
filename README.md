@@ -1,11 +1,11 @@
 <h1 align="center">DexSlender</h1>
 
-<h4 align="right">My Stuff ↴ㅤㅤ</h4>
+<h4 align="right">My Stuff ↴ㅤㅤㅤ</h4>
 <a align="right" href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
-	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" height="40px" alt="Youtube">
+	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" height="40px" alt="Youtube" hspace=9>
 </a>
 
-# Hi there!
+<h2>Hi there!</h2>
 
 <a align="right" href="https://www.twitch.tv/dexslender" target="blank">
 	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" align="right" height="50px" alt="Twitch">
@@ -27,7 +27,7 @@
 
 <div align="center">
 	<a href="https://discord.com/users/828393508296458284" target="blank">
-		<img src="https://lanyard.cnrad.dev/api/828393508296458284?bg=001200&idleMessage=Sleeping%20or %20listening%20some%20music....&hideDiscrim=true">
+		<img src="https://lanyard.cnrad.dev/api/828393508296458284?idleMessage=Sleeping%20or%20listening%20some%20music....&hideDiscrim=true">
 	</a>
 	</br></br>
 	<b>My discord server</b>
