@@ -42,6 +42,7 @@ ___
 <b>GitHub Stats</b>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat)
+
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&border_color=000000&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dexslender&theme=midnight-purple&border_color=000000)
 </div>
