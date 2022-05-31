@@ -14,14 +14,15 @@
 - <h3>Level: <b>Junior</b> 👨‍💻</h3> 
 - He/Him
 - from México 🇲🇽
-- I have only been in this great world of programming for a short time
+- **Geometry Dash** player.
+- I have only been in this great world of programming for a short time.
 - I love coding while I listen music <img src="https://photos.bandsintown.com/thumb/8363631.jpeg" width="23px" align="center"/>
 - Learning Now: 
 	- HTML/CSS/JS <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center" hspace=3/>
-	- Typescript <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=22/></a>
-	- Java <a href="https://www.java.com/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="23px" align="center" hspace=56/></a>
+	- Typescript* <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=20/></a>
+	- Java <a href="https://www.java.com/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="23px" align="center" hspace=65/></a>
 
-</br>
+<i>*mostly</i>
 
 ___
 </br>
