@@ -26,11 +26,19 @@
 
 ___
 
+<h2>Projects</h2>
+
+- Comming soon...
+
+___
+
 <div align="center">
+	<b>Discord</b>
+	</br></br>
 	<a href="https://discord.com/users/828393508296458284" target="blank">
 		<img src="https://lanyard.cnrad.dev/api/828393508296458284?idleMessage=Sleeping%20or%20listening%20some%20music....&hideDiscrim=true" width=300 >
 	</a><a href="https://discord.gg/eTa6dTpf89" target="blank">
-		<img src="https://discordapp.com/api/guilds/896047288969986160/widget.png?style=banner3" alt="Discord Server Banner" width=350/>
+		<img src="https://discordapp.com/api/guilds/896047288969986160/widget.png?style=banner1" alt="Discord Server Banner" width=285/>
 	</a>
 	
 
