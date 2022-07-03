@@ -21,6 +21,7 @@
 	- HTML/CSS/JS <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center" hspace=3/>
 	- Typescript* <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=17/></a>
 	- Java <a href="https://www.java.com/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="23px" align="center" hspace=58/></a>
+	- Go*  <a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center" hspace=58/></a>
 
 <i>*mostly</i>
 
@@ -45,7 +46,7 @@ ___
 ___
 <b>GitHub Stats</b>
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&border_color=000000&layout=compact)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&show_icons=true&locale=en&layout=compact&border_color=000000)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dexslender&theme=midnight-purple&border_color=000000)
 </div>
