@@ -46,7 +46,7 @@ ___
 ___
 <b>GitHub Stats</b>
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&show_icons=true&locale=en&layout=compact&border_color=000000)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dexslender&theme=midnight-purple&border_color=000000)
 </div>
