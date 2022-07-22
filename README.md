@@ -11,7 +11,7 @@
 	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" align="right" height="50px" alt="Twitch">
 </a>
 
-- <h3>Level: <b>Junior</b> 👨‍💻</h3> 
+- <h3>Initial Dev 👨‍💻</h3> 
 - He/Him
 - from México 🇲🇽
 - **Geometry Dash** player.
