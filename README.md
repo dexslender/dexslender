@@ -22,6 +22,7 @@
 	- Typescript* <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=17/></a>
 	- Java <a href="https://www.java.com/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="23px" align="center" hspace=58/></a>
 	- Go*  <a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center" hspace=58/></a>
+	- Kotlin (Maybe)
 
 <i>*mostly</i>
 
