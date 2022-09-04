@@ -35,6 +35,7 @@
 <h2>Projects</h2>
 
 - Orb Discord Bot (Invite Comming Soon)
+- Icosahedron (Bot in GO Lang)
 
 </br>
 <div align="center">
