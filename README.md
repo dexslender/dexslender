@@ -1,5 +1,3 @@
-<h1 align="center">DexSlender</h1>
-
 # Hi there! ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat)
 
 - <h3>Initial Dev 👨‍💻</h3> 
