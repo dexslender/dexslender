@@ -41,10 +41,9 @@ Learning Now:
 </br>
 <div align="center">
 <h3>GitHub Stats</h3>
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&border_color=000000&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dexslender&theme=midnight-purple&border_color=000000)
+<img src="https://github-readme-stats.vercel.app/api?username=dexslender&theme=midnight-purple&border_color=000000&show_icons=true" alt="User_Stats" width="400px">
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&border_color=000000&show_icons=true&locale=en&layout=compact" alt="Laguage_Stats" width="400px">
 </div>
 
 
