@@ -1,5 +1,6 @@
 # Hi there! ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat-square) ![Discord](https://img.shields.io/badge/Discord-DexSlender%232051-yellowgreen?logo=discord&style=flat-square)
 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Icosahedron" src="https://github.com/DexSlender/DexSlender/blob/main/icosahedron-purple.png?raw=true">
 <code><b>He/Him</b></code>
 
 Just i'm inital and enthusiastic developer that loves icosahedrons, love coding since know it, listen music (specially dubstep and house).
