@@ -9,7 +9,7 @@ The short time I've been programming has been incredible, so many things that ca
 
 I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="25px" align="center" hspace=3>
 
-<h4><code>Learning Now:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code></h4>
+<h4><code>Learning Now:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code></h4> <i>*mostly</i>
 <a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
 	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" style="float: right; margin: 0 10px 0 0;" height="40px" alt="Youtube" hspace=9>
 </a>
@@ -24,8 +24,6 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 - Typescript* <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=17/></a>
 - HTML/CSS/JS <a href="https://developer.mozilla.org/" target="blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center" hspace=3/></a>
 - NextJS <a href="https://nextjs.org/" target="blank"><img src="https://nomadcoders.co/logos/next.png" width="20px" align="center" hspace=47/></a>
-
-<i>*mostly</i>
 
 <details>
 	<summary><code><code><h3>Discord</h3></code></code></summary>
