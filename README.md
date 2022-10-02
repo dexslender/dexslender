@@ -10,6 +10,15 @@ The short time I've been programming has been incredible, so many things that ca
 I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="25px" align="center" hspace=3>
 
 <h4><code>Learning Now:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code></h4>
+<a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
+	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" style="float: right; margin: 0 10px 0 0;" height="40px" alt="Youtube" hspace=9>
+</a>
+<a href="https://discord.gg/eTa6dTpf89" target="blank">
+	<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord Server" style="float: right; margin: 0 10px 0 0;" height="50px" align="right">
+</a>
+<a href="https://www.twitch.tv/dexslender" target="blank">
+	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" style="float: right; margin: 0 10px 0 0;" align="right" height="50px" alt="Twitch">
+</a>
 
 - Go*  <a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center" hspace=58/></a>
 - Typescript* <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=17/></a>
@@ -18,18 +27,6 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 
 <i>*mostly</i>
 
-<span align="right">
-	
-<a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
-	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" height="40px" alt="Youtube" hspace=9>
-</a>
-<a href="https://discord.gg/eTa6dTpf89" target="blank">
-	<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord Server" height="50px" align="right">
-</a>
-<a href="https://www.twitch.tv/dexslender" target="blank">
-	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" align="right" height="50px" alt="Twitch">
-</a>
-</span>
 <details>
 	<summary><code><code><h3>Discord</h3></code></code></summary>
 	<a href="https://discord.com/users/828393508296458284" target="blank">
