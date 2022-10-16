@@ -3,7 +3,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Icosahedron" src="https://github.com/DexSlender/DexSlender/blob/main/icosahedron-purple.png?raw=true">
 <code><b>He/Him</b></code>
 
-Just i'm inital and enthusiastic developer that loves icosahedrons, love coding since know it, listen music (specially dubstep and house).
+I'm inital developer that loves icosahedrons, love coding since know it, listen music (specially dubstep and house).
 
 The short time I've been programming has been incredible, so many things that can be done with code...
 
