@@ -19,12 +19,13 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" style="float: right; margin: 0 10px 0 0;" align="right" height="50px" alt="Twitch">
 </a>
 
-<h4><code>Learning Now:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code></h4> <i>*mostly</i>
 
-- Go*  <a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center" hspace=58/></a>
-- Typescript* <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center" hspace=17/></a>
-- HTML/CSS/JS <a href="https://developer.mozilla.org/" target="blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center" hspace=3/></a>
-- NextJS <a href="https://nextjs.org/" target="blank"><img src="https://nomadcoders.co/logos/next.png" width="20px" align="center" hspace=47/></a>
+**Learning Now** | **In the future** (probably) |
+-----------------|------------------------------|
+<a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center"/></a> Go* | <a href="https://rustlang.org"><img src="https://i.imgur.com/kZARYL8.png" width="25px" align="center"></a> Rust <img src="https://i.imgur.com/DMvRnzF.png" width="20px" align="center">
+<a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center"/></a> Typescript* | C# or F#
+<a href="https://developer.mozilla.org/" target="blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center"/></a> HTML/CSS/JS | Kotlin
+<a href="https://nextjs.org/" target="blank"><img src="https://nomadcoders.co/logos/next.png" width="20px" align="center"/></a> Next.js |
 
 <details>
 	<summary><code><code><h3>Discord</h3></code></code></summary>
@@ -35,7 +36,7 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 
 <h2>Projects</h2>
 
-- Make (...)
+- Se vienen cositas 👀
 
 </br>
 <div align="center">
