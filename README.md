@@ -27,6 +27,8 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 <a href="https://developer.mozilla.org/" target="blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center"/></a> HTML/CSS/JS | Kotlin
 <a href="https://nextjs.org/" target="blank"><img src="https://nomadcoders.co/logos/next.png" width="20px" align="center"/></a> Next.js |
 
+**\***-*mostly*
+
 <details>
 	<summary><code><code><h3>Discord</h3></code></code></summary>
 	<a href="https://discord.com/users/828393508296458284" target="blank">
