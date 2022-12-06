@@ -12,7 +12,7 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 <a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
 	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" style="float: right; margin: 0 10px 0 0;" height="40px" alt="Youtube" hspace=9>
 </a>
-<a href="https://discord.gg/eTa6dTpf89" target="blank">
+<a href="https://discord.com/invite/xfMn3fQqnQ" target="blank">
 	<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord Server" style="float: right; margin: 0 10px 0 0;" height="50px" align="right">
 </a>
 <a href="https://www.twitch.tv/dexslender" target="blank">
