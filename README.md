@@ -1,14 +1,3 @@
-# Hi there! ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat-square) ![Discord](https://img.shields.io/badge/Discord-DexSlender%232051-yellowgreen?logo=discord&style=flat-square&color=5865F2)
-
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Icosahedron" src="https://github.com/DexSlender/DexSlender/blob/main/icosahedron-purple.png?raw=true">
-<code><b>He/Him</b></code>
-
-I'm inital developer that loves icosahedrons, love coding since know it, listen music (specially dubstep and house).
-
-The short time I've been programming has been incredible, so many things that can be done with code...
-
-I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="25px" align="center" hspace=3>
-
 <a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
 	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" style="float: right; margin: 0 10px 0 0;" height="40px" alt="Youtube" hspace=9>
 </a>
@@ -18,6 +7,16 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 <a href="https://www.twitch.tv/dexslender" target="blank">
 	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" style="float: right; margin: 0 10px 0 0;" align="right" height="50px" alt="Twitch">
 </a>
+
+# Hi there! ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat-square) ![Discord](https://img.shields.io/badge/Discord-DexSlender%232051-yellowgreen?logo=discord&style=flat-square&color=5865F2) 
+<img width="30" height="30" align="right" style="float: right; margin.: 0 10px 0 0;" alt="Icosahedron" src="https://github.com/DexSlender/DexSlender/blob/main/icosahedron-purple.png?raw=true">
+<code><b>He/Him</b></code>
+
+I'm inital developer that loves icosahedrons, love coding since know it, listen music (specially dubstep).
+
+The short time I've been programming has been incredible, so many things that can be done with code...
+
+I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="25px" align="center" hspace=3>
 
 
 **Learning Now** | **In the future** (probably) |
