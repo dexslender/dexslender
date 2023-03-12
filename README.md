@@ -21,9 +21,10 @@ I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1
 
 **Learning Now** | **In the future** (probably) |
 -----------------|------------------------------|
-<a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center"/></a> Go* | <a href="https://rustlang.org"><img src="https://i.imgur.com/kZARYL8.png" width="25px" align="center"></a> Rust
-<a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center"/></a> Typescript* | C# or F#
-<a href="https://developer.mozilla.org/" target="blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center"/></a> HTML/CSS/JS | Kotlin
+<a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center"/></a> Go* | C# or F#
+<a href="https://rustlang.org"><img src="https://i.imgur.com/kZARYL8.png" width="25px" align="center"></a> Rust | Kotlin
+<a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center"/></a> Typescript |
+<a href="https://developer.mozilla.org/" target="blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="60px" align="center"/></a> HTML/CSS/JS |
 <a href="https://nextjs.org/" target="blank"><img src="https://nomadcoders.co/logos/next.png" width="20px" align="center"/></a> Next.js |
 
 **\***-*mostly*
