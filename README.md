@@ -1,3 +1,5 @@
+# Hi there! ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat-square) ![Discord](https://img.shields.io/badge/Discord-DexSlender%232051-yellowgreen?logo=discord&style=flat-square&color=5865F2)
+
 <a href="https://www.youtube.com/channel/UCexHpXWRC_Y2w2T_fYfcp7w" target="blank">
 	<img src="https://i2.wp.com/logos.edu.mx/wp-content/uploads/2021/01/YouTube-LOGO.png" align="right" style="float: right; margin: 0 10px 0 0;" height="40px" alt="Youtube" hspace=9>
 </a>
@@ -8,19 +10,15 @@
 	<img src="https://logos-marcas.com/wp-content/uploads/2020/11/Twitch-Emblema.png" style="float: right; margin: 0 10px 0 0;" align="right" height="50px" alt="Twitch">
 </a>
 
-# Hi there! ![Profile Views](https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat-square) ![Discord](https://img.shields.io/badge/Discord-DexSlender%232051-yellowgreen?logo=discord&style=flat-square&color=5865F2) 
-<img width="30" height="30" align="right" style="float: right; margin.: 0 10px 0 0;" alt="Icosahedron" src="https://github.com/DexSlender/DexSlender/blob/main/icosahedron-purple.png?raw=true">
 <code><b>He/Him</b></code>
 
 I'm inital developer, I love programming since know it and listen music (specially dubstep).
-
-The short time I've been programming has been incredible, so many things that can be done with code...
 
 I'm from México <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f2-1f1fd.png" width="25px" align="center" hspace=3>
 
 
 **Learning Now** | **In the future** (probably) | **TO-DO** |
------------------|------------------------------|----------|
+-----------------|------------------------------|-----------|
 <a href="https://go.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width="23px" align="center"/></a> Go* | C# or F# | <a href="https://nextjs.org/" target="blank"><img src="https://nomadcoders.co/logos/next.png" width="20px" align="center"/></a> Next.js
 <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="20px" align="center"/></a> Typescript | Kotlin
 <a href="https://rustlang.org"><img src="https://i.imgur.com/kZARYL8.png" width="25px" align="center"></a> Rust |
