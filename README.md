@@ -1,9 +1,9 @@
-<div align="center">comming updates</div>
-<h1 align="center">Welcome</h1>
+# Welcome
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=DexSlender&color=6002ee&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=dexslender&color=6002ee&style=flat-square">
 <a href="https://discord.com/users/828393508296458284" target="blank">
-    <img src="https://img.shields.io/badge/Discord-DexSlender%232051-yellowgreen?logo=discord&style=flat-square&color=5865F2" alt="Discord Badge">
+    <img src="https://img.shields.io/badge/Discord-%40dexslender-yellowgreen?logo=discord&style=flat-square&color=5865F2" alt="Discord Badge">
 </a>
 </br>
 </div>
