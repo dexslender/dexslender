@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Discord-%40dexslender-yellowgreen?logo=discord&style=flat-square&color=5865F2" alt="Discord Badge">
 </a>
 </h1>
-Programmer of random things and Linux enthusiastic.
+Programmer of random things and Linux enthusiast.
 </br></br>
 <table>
   <tr>
