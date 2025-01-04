@@ -21,5 +21,5 @@ Programmer of random things and Linux enthusiast.
 ### _TODO:_
 
 - [ ] Add WakaTime stats (github workflow)
-- [ ] Project roadmap 2025
+- [x] Project roadmap 2025
 - [ ] Make `README.md` more creative
