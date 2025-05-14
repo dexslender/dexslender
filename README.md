@@ -6,20 +6,9 @@
 </a>
 </h1>
 Programmer of random things and Linux enthusiast.
-</br></br>
-<table>
-  <tr>
-	<td align="center" style="padding=0;width=50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=dexslender&theme=midnight-purple&hide_border=true&show_icons=true&border_radius=8" alt="User_Stats" hspace="3px" height="175px">
-	</td>
-	<td align="center" style="padding=0;width=50%;">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DexSlender&theme=midnight-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Laguage_Stats">
-	</td>
-  </tr>
-</table>
+</br>
 
 ### _TODO:_
 
 - [ ] Add WakaTime stats (github workflow)
 - [x] Project roadmap 2025
-- [ ] Make `README.md` more creative
