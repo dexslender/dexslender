@@ -12,3 +12,5 @@ Programmer of random things and Linux enthusiast.
 
 - [ ] Add WakaTime stats (github workflow)
 - [x] Project roadmap 2025
+- [ ] Start using notion
+
