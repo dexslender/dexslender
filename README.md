@@ -11,6 +11,6 @@ Programmer of random things and Linux enthusiast.
 ### _TODO:_
 
 - [ ] Add WakaTime stats (github workflow)
-- [ ] Start using notion
+- [x] Start using notion
 
 
