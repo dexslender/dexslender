@@ -1,16 +1,12 @@
 <h1>
-    Welcome!
+    <code>Welcome!</code>
     </br>
     <a href="https://discord.com/users/828393508296458284" target="blank">
     <img src="https://img.shields.io/badge/Discord-%40dexslender-yellowgreen?logo=discord&style=flat-square&color=5865F2" alt="Discord Badge">
+    <a href="https://wakatime.com/@d61f3092-7a18-4900-87ee-d0b8912116b4"><img src="https://wakatime.com/badge/user/d61f3092-7a18-4900-87ee-d0b8912116b4.svg?style=flat-square" alt="Total time coded since Nov 19 2024" /></a>
 </a>
 </h1>
-Programmer of random things and Linux enthusiast.
+<code>Programmer of random things and Linux enthusiast.</code>
 </br>
-
-### _TODO:_
-
-- [ ] Add WakaTime stats (github workflow)
-- [x] Start using notion
 
 
