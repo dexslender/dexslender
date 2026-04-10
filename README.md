@@ -7,6 +7,8 @@
 </a>
 </h1>
 <code>Programmer of random things and Linux enthusiast.</code>
-</br>
-
-
+</br></br>
+<details>
+    <summary>Recently played <i>Last.fm</i></summary>
+    <img src="https://lastfm-recently-played.vercel.app/api?user=dexslender&show_user=header&footer_style=compact_stats&bg_color=0d1117&header_style=compact&border_radius=0" alt="My scrobbles">
+</details>
