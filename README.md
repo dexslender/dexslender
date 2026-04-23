@@ -9,7 +9,7 @@
 <code>Programmer of random things and Linux enthusiast.</code>
 </br>
 </br>
-<p align="center">
+<p>
   <!--- <a href="https://skillicons.dev"> --->
     <p>some technologies i use...</p>
     <img src="https://skillicons.dev/icons?perline=6&i=js,ts,go,rust,java,bash,prisma,mongodb,mysql,postgres,linux,nix,neovim,nodejs,bun,vue,git,docker" />
