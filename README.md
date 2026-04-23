@@ -10,10 +10,10 @@
 </br>
 </br>
 <p>
-  <!--- <a href="https://skillicons.dev"> --->
-    <p>some technologies i use...</p>
+  <p>some technologies i use...</p>
+  <a href="https://github.com/dexslender">
     <img src="https://skillicons.dev/icons?perline=6&i=js,ts,go,rust,java,bash,prisma,mongodb,mysql,postgres,linux,nix,neovim,nodejs,bun,vue,git,docker" />
-  <!--- </a> --->
+  </a>
 </p>
 <details>
     <summary>Recently played <i>Last.fm</i></summary>
