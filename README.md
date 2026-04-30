@@ -12,7 +12,7 @@
 <p>
   <p>some technologies i use...</p>
   <a href="https://github.com/dexslender">
-    <img src="https://skillicons.dev/icons?perline=6&i=js,ts,go,rust,java,bash,prisma,mongodb,mysql,postgres,linux,nix,neovim,nodejs,bun,vue,git,docker" />
+    <img src="https://skillicons.dev/icons?perline=6&i=Linux,go,ts" />
   </a>
 </p>
 <details>
